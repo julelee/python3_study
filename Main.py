@@ -1,4 +1,4 @@
-import Func as f
+import Func.Test as FuncTest
 if __name__ == '__main__':
     print("begin:")
-    f.Test_FuncArg()
+    FuncTest.Test_FuncArg()
