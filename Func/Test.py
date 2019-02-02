@@ -1,4 +1,5 @@
 def Test_FuncArg():
+    print("Test for function argument")
     Say_Default("hi")
     Say_Default("hello","Mr.Y")
     Say_Keyword("Hi",Msg="Happy New Year.")
