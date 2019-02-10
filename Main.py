@@ -1,4 +1,4 @@
-import List.Test as ListTest
+import Tuple.Test as TpTest
 if __name__ == '__main__':
     print("Test begin：")
-    ListTest.Test()
+    TpTest.Test()
