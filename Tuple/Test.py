@@ -1,7 +1,7 @@
 def Test():
-    T = (".com",".org",".gov")
-
-    Show(T)
+    T = (".com",".org",".gov",123,0xff)
+    T1=(3.14,"PI")
+    print(T+T1)
    
     
 def Show(T):
